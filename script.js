@@ -1,20 +1,4 @@
 const noBtn = document.getElementById('noBtn');
-const buttonsArea = document.getElementById('buttonsArea');
-const result = document.getElementById('result');
-const subtitle = document.getElementById('subtitle');
-
-// Lista de mensagens que aparecem quando o mouse passa por cima do "Não"
-const mensagens = [
-  "prometo que vai ser legal",
-  "por que você não quer?",
-  "vamos fazer muitas coisas divertidas",
-  "tem certeza mesmo?",
-  "só uma chance, vai...",
-  "vai ser a melhor decisão do seu dia",
-  "eu prometo que não vou pisar no seu pé",
-  "pensa bem antes de recusar 👀"
-];
-const noBtn = document.getElementById('noBtn');
 const yesBtn = document.getElementById('yesBtn');
 const buttonsArea = document.getElementById('buttonsArea');
 const result = document.getElementById('result');
