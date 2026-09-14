@@ -64,7 +64,7 @@ function fugirDoNao() {
 function dizerSim() {
   buttonsArea.style.display = 'none';
   noBtn.style.display = 'none';
-  result.innerHTML = '🎉 Ela(e) disse SIM! 🎉';
+  result.innerHTML = '🎉 EBAAAAA 🎉';
   result.classList.add('show');
 }
 
