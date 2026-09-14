@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/32192572/index.html)
+[index.html](https://github.com/user-attachments/files/32193117/index.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -17,13 +17,13 @@
     <p class="subtitle" id="subtitle">prometo que vai ser legal</p>
 
     <div class="buttons" id="buttonsArea">
-      <button id="yesBtn" onclick="dizerSim()">Sim!</button>
+      <button id="yesBtn">Sim!</button>
     </div>
 
     <div id="result"></div>
   </div>
 
-  <button id="noBtn" onmouseover="mudarMensagem()" onclick="fugirDoNao()">Não</button>
+  <button id="noBtn">Não</button>
 
   <script src="script.js"></script>
 </body>
