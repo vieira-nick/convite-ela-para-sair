@@ -1,4 +1,4 @@
-[Uploading index.html…]()
+[index.html](https://github.com/user-attachments/files/32192572/index.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -9,6 +9,8 @@
 </head>
 <body>
 
+  <div class="hearts-bg" id="heartsBg"></div>
+
   <div class="card">
     <div class="hearts">💖💌💖</div>
     <h1>Quer sair comigo?</h1>
@@ -16,11 +18,12 @@
 
     <div class="buttons" id="buttonsArea">
       <button id="yesBtn" onclick="dizerSim()">Sim!</button>
-      <button id="noBtn" onmouseover="mudarMensagem()" onclick="fugirDoNao()">Não</button>
     </div>
 
     <div id="result"></div>
   </div>
+
+  <button id="noBtn" onmouseover="mudarMensagem()" onclick="fugirDoNao()">Não</button>
 
   <script src="script.js"></script>
 </body>
